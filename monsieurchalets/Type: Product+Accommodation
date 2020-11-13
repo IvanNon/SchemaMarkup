@@ -7,6 +7,19 @@
         "description": "Chalet, 3 Bedrooms, 2 Baths, (Sleeps 6-7) - $189 avg/night - Myrtle Beach - Amenities include: Swimming pool, Internet, Air Conditioning, TV, Satellite or cable, Washer &amp; Dryer, Children Welcome, Parking, No Smoking, Heater ✓ Bedrooms: 3 ✓ Sleeps: 7 ✓ Minimum stay from 3 night(s) ✓ Bookable directly online - Book vacation rental 195060 with Vrbo.",
         "petsAllowed": false,
         "image": "www.monsieurchalets.com//odis/listing/ca4c37ab-d096-4b5b-88fd-1fddbc5ea158.f10.jpg",
+        "review": {
+            "@type": "Review",
+            "author": "Julie Tremblay",
+            "datePublished": "2020-08-01",
+            "reviewBody": "Magnifique weekend, avec la famille...",
+            "name": "Magnifique chalet",
+            "reviewRating": {
+            "@type": "Rating",
+            "bestRating": "5",
+            "ratingValue": "1",
+            "worstRating": "1"
+             }
+      },
         "aggregateRating": {
             "@type": "AggregateRating",
             "bestRating": 5,
