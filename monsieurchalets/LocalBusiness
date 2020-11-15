@@ -1,0 +1,21 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "name": "[business name]",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "[street name]",
+    "addressLocality": "[locality]",
+    "addressRegion": "[region]",
+    "postalCode": "[postal code]"
+  },
+  "telephone": "[telephone number]",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "[aggregate rating given]",
+    "bestRating": "[highest rating]",
+    "reviewCount": "[total number of reviews]"
+  }
+}
+</script>
