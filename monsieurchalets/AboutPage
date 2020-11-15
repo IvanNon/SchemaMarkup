@@ -1,0 +1,9 @@
+<script type="application/ld+json">
+{
+	"@context": "http://schema.org/",
+	"@type": "AboutPage",
+    "mainContentOfPage": "https://www.monsieurchalets.com/",
+    "@id":" https://www.monsieurchalets.com/#website",
+    "description": "Notre mission est de vous faire découvrir les plus beaux chalets du Québec, les rendre accessibles et simples à louer."
+}
+</script>
