@@ -1,0 +1,30 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "BlogPosting",
+  "headline": "anbc",
+  "mainEntityOfPage":"https://www.monsieurchalets.com/#webpage",
+  "image": {
+    "@type": "ImageObject",
+    "url": "example.com",
+    "width": "",
+    "height": ""
+  },
+  "author": {
+    "@type": "Person",
+    "name": "abcd"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "abcd",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "example111.com",
+      "width": "",
+      "height": ""
+    }
+  },
+  "datePublished": "2020-09-09",
+  "dateModified": "2020-09-09"
+}
+</script>
