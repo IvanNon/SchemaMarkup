@@ -1,0 +1,42 @@
+<script type="application/ld+json">
+    {
+      "@context" : "https://schema.org/",
+      "@type" : "JobPosting",
+      "title" : "Gestion de projet",
+      "description" : "abcd….",
+      "identifier": {
+        "@type": "PropertyValue",
+        "name": "Monsieur Chalet",
+        "value": "1234567"
+      },
+      "datePosted" : "2020-01-18",
+      "validThrough" : "2017-03-18T00:00",
+      "employmentType" : "CONTRACTOR",
+      "hiringOrganization" : {
+        "@type" : "Organization",
+        "name" : "Monsieur Chalets",
+        "sameAs" : "http://www. monsieurchalets.com",
+        "logo" : "http://www.example.com/images/logo.png"
+      },
+      "jobLocation": {
+      "@type": "Place",
+        "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "1600 Abcd",
+        "addressLocality": "abcd",
+        "addressRegion": "QC",
+        "postalCode": "H2Y 1T4",
+        "addressCountry": "US"
+        }
+      },
+     "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "CAD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "value": 30.00,
+          "unitText": "HOUR"
+        }
+      }
+    }
+    </script>
