@@ -1,0 +1,41 @@
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+"name": "Chalets a Mont-Tremblant",
+"url": "https://www.monsieurchalets.com/chalets-a-louer-mont-tremblant",
+"description": "Chalets a Mont-Tremblant...",
+"itemListOrder": "Unordered",
+"numberOfItems": 2,
+"itemListElement": [
+    {
+        "@type": "ListItem",
+        "position": 1,
+        "url": "https://www.monsieurchalets.com/en-ca/chalets-a-louer/laurentides/chalet-a-louer-laurentides-in2thewoods",
+        "name": "chalet 1",
+        "image": {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "contentUrl": "imageaddress.jpeg",
+            "description": "image1234",
+            "width": 640,
+            "height": 640
+        }
+    },
+    {
+        "@type": "ListItem",
+        "position": 2,
+        "url": "https://www.monsieurchalets.com/en-ca/chalets-a-louer/laurentides/chalet-a-louer-laurentides-mont-tremblant-2",
+        "name": "chalet 2",
+        "image": {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "contentUrl": "ytfc.jpg",
+            "description": "image123",
+            "width": 640,
+            "height": 640
+        }
+    }
+]
+}
+  </script>
