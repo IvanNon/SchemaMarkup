@@ -1,0 +1,22 @@
+<script type="application/ld+json">
+     {
+          "@context": "http://schema.org",
+          "@graph": [{
+               "@type": "WebSite",
+               "name": "MonsieurChalets",
+               "url": "https://www.monsieurchalets.com/"
+          }, {
+               "@type": "WebPage",
+               "name": "A propos de Nous",
+               "url": "https://www.monsieurchalets.com/aproposdenous"
+          }, {
+               "@type": "Organization",
+               "name": "MonsieurChalets",
+               "url": "https://www.monsieurchalets.com/",
+               "sameAs": [
+                    "http://www.facebook.com/example-com",
+                    "http://www.instagram.com/example-com"
+               ]
+          }]
+     }
+</script>
