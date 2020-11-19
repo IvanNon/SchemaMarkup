@@ -1,0 +1,59 @@
+{
+  "@context": "https://schema.org/",
+  "@type": "Car",
+  "sku":"12345678",
+  "gtin8":"12345678",
+  "fuelType": "Essence",
+  "model": "Captur Life",
+  "name": "Renault Captur Life",
+  "description": "Renault Captur Life neuve - Essence - 90cv - 5 portes : 12 890€ ",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "5",
+    "reviewCount": "15"
+ },
+  "review": 
+    {
+      "@type": "Review",
+      "author": "John Doe",
+      "datePublished": "2020-11-01",
+      "description": "Great SEO service",
+      "reviewRating": {
+        "@type": "Rating",
+        "bestRating": "5",
+        "ratingValue": "5",
+        "worstRating": "4"
+      	}
+    },
+  "vehicleEngine": {
+      "@type": "EngineSpecification",
+      "enginePower": {
+          "@type": "QuantitativeValue",
+          "value": "90",
+          "unitCode": "N12"
+      }
+   },
+   "manufacturer": {
+       "@type": "Corporation",
+       "sameAs": "https://www.wikidata.org/wiki/Q6686",
+       "name": "Renault"
+   },
+   "image": "https://www.xxxx.fr/uploads/models/renault-captur.png",
+   "vehicleTransmission": "Manuelle",
+   "vehicleConfiguration": "0.9 tce 90 bvm5",
+   "numberOfDoors": "5",
+   "brand": {
+       "@type": "Brand",
+       "name": "Renault"
+   },
+   "offers": [{
+       "@type": "Offer",
+       "URL": "example1123.com",
+       "price": "12890",
+       "priceCurrency": "EUR",
+       "availability": "https://schema.org/InStock",
+       "priceValidUntil": "2019-12-13"
+    }],
+    "itemCondition": "https://schema.org/NewCondition"
+  }
+}
