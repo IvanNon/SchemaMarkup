@@ -1,0 +1,11 @@
+{
+ "@context": "https://schema.org/",
+ "@type": "WebPage",
+ "name": "5 Best Ways to Get Rid of Your Junk",
+ "speakable":
+ {
+  "@type": "SpeakableSpecification",
+  "cssSelector": ["Hire a Junk Removal Service", "Junk Removal Services allow you to get rid of pretty much all kinds of unwanted stuff from your office space or house. All you have to do is book the service online, and they will come and take away all the things you don’t need anymore."]
+  },
+ "url": "https://movingwaldo.ca/moving-tips/best-ways-to-get-rid-of-your-junk/"
+ }
