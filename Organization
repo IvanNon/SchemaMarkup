@@ -1,0 +1,16 @@
+  
+<script type="application/ld+json">
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "name" : "MovingWaldo",
+  "logo" : "[logo image url]",
+  "url" : "https://movingwaldo.ca/",
+  "sameAs" : [
+    "https://www.instagram.com/MovingWaldo/?hl=en",
+    "https://twitter.com/[username]",
+    "https://www.facebook.com/MovingWaldo/",
+    "https://www.linkedin.com/company/MovingWaldo/",
+    ""https://g.page/MovingWaldo?"
+  ]
+}
+</script>
