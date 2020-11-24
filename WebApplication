@@ -4,10 +4,10 @@
   "@type": "WebApplication",
   "browserRequirements": "Requires HTML5 support",
   "applicationCategory": "Moving Quote",
-  "applicationSubCategory": "Quiz",
-  "name": "[the name of the quiz]",
+  "applicationSubCategory": "Get a quote",
+  "name": "Book movers",
   "image": "http://the.url/images/game-image.gif",
-  "about": "This is a moving quote.",
+  "about": "Book movers",
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": "4.6",
