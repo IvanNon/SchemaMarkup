@@ -1,0 +1,41 @@
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+"name": "Movers in Toronto",
+"url": "https://movingwaldo.ca/community-post/moving-to-toronto-where-should-you-live/",
+"description": "Movers in Toronto...",
+"itemListOrder": "Unordered",
+"numberOfItems": 2,
+"itemListElement": [
+    {
+        "@type": "ListItem",
+        "position": 1,
+        "url": "https://movingwaldo.ca/community-post/moving-to-burlington-where-should-you-live/",
+        "name": "chalet 1",
+        "image": {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "contentUrl": "imageaddress.jpeg",
+            "description": "image1234",
+            "width": 640,
+            "height": 640
+        }
+    },
+    {
+        "@type": "ListItem",
+        "position": 2,
+        "url": "https://movingwaldo.ca/community-post/moving-to-toronto-where-should-you-live/",
+        "name": "chalet 2",
+        "image": {
+            "@context": "http://schema.org",
+            "@type": "ImageObject",
+            "contentUrl": "ytfc.jpg",
+            "description": "image123",
+            "width": 640,
+            "height": 640
+        }
+    }
+]
+}
+  </script>
