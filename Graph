@@ -1,0 +1,22 @@
+<script type="application/ld+json">
+     {
+          "@context": "http://schema.org",
+          "@graph": [{
+               "@type": "WebSite",
+               "name": "MovingWaldo",
+               "url": "https://movingwaldo.ca/"
+          }, {
+               "@type": "WebPage",
+               "name": "Contactez-nous",
+               "url": "https://movingwaldo.ca/fr/nous-contacter/"
+          }, {
+               "@type": "Organization",
+               "name": "MovingWaldo",
+               "url": "https://movingwaldo.ca/",
+               "sameAs": [
+                    "http://www.facebook.com/movingwaldo",
+                    "http://www.instagram.com/movingwaldo"
+               ]
+          }]
+     }
+</script>
