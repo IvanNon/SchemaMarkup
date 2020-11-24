@@ -1,26 +1,22 @@
-    <script type="application/ld+json">
+<script type="application/ld+json">
+{
+  "@context":"http://schema.org",
+  "@type":"ItemList",
+  "itemListElement":[
     {
-    "@context": "https://schema.org",
-    "@type": "SiteNavigationElement",
-    "@graph": [
-        {
-        "@type": "ListItem",
-        "position": 1,
-        "item": {
-            "@id": "http://www.example.com/",
-            "url": "http://www.example.com/",
-            "name": "Home"
-            }
-        },
-        {
-        "@type": "ListItem",
-        "position": 2,
-        "item": {
-            "@id": "http://www.example.com/contact.html",
-            "url": "http://www.example.com/contact.html",
-            "name": "Contact"
-            }
-        },
-    ]
+      "@type":"SiteNavigationElement",
+      "position":1,
+      "name": "Home",
+      "description": "Homes Desc.",
+      "url":"https://movingwaldo.ca/"
+    },
+    {
+      "@type":"SiteNavigationElement",
+      "position":2,
+      "name": "find-moving-companies",
+      "description": "find-moving-companies in TO.",
+      "url":"https://movingwaldo.ca/find-moving-companies/"
     }
-    </script>
+  ]
+}
+</script>
