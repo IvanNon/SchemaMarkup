@@ -1,0 +1,14 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DiscoverAction",
+  "agent": {
+    "@type": "Person",
+    "name": "User1"
+  },
+  "object": {
+    "@type": "Book a mover",
+    "name": "ABCD"
+  }
+}
+</script>
