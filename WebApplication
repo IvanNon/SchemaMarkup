@@ -1,0 +1,29 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebApplication",
+  "browserRequirements": "Requires HTML5 support",
+  "applicationCategory": "Moving Quote",
+  "applicationSubCategory": "Quiz",
+  "name": "[the name of the quiz]",
+  "image": "http://the.url/images/game-image.gif",
+  "about": "This is a moving quote.",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.6",
+    "reviewCount": "13"
+  },
+   "offers": {
+    "@type": "Offer",
+    "price": "1",
+    "priceCurrency": "CAD"
+  },
+  "creator": {
+    "@type": "Person",
+    "name": "[member name]",
+    "url": "http://the.url/profile/14834893"
+  },
+  "url": "http://the.url/game/the-url",
+  "operatingSystem": "All"
+}
+</script>
